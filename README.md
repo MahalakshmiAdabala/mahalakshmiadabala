@@ -1,5 +1,9 @@
-# 💫 About Me: 
-I am an MBA(Finance) graduate, who loves DataScience and AI ❤️<br><br>🔭 I'm into Machine Learning<br>🌱 I’m currently learning Deep Learning, MLOPs and DSA<br>👯 I’m looking for an Intern or Intern + FTE Role 😄<br>⚡ Fun fact: I love Chess and Cycling 🚴‍♀️<br>
+<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Mahalakshmi </h1> 
+
+<img align='right' src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="230">
+
+#### 💫 I am an MBA(Finance) graduate, who loves DataScience and AI ❤️
+<br>🔭 I'm into Machine Learning<br>🌱 I’m currently learning Deep Learning, MLOPs and DSA<br>🤔 I’m looking for Intern or Intern + FTE Role 😄<br>⚡ Fun fact: I love Chess and Cycling 🚴‍♀️<br> 💬 Ask me about - Anything 🤫<br>📫 How to reach me adabala.saimahalakshmi@gmail.com
 
 
 ## 🌐 Socials:
