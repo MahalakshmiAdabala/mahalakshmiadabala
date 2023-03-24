@@ -3,7 +3,7 @@
 <img align='right' src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="230">
 
 #### 💫 I am an MBA(Finance) graduate, who loves DataScience and AI ❤️
-<br>🔭 I'm into Machine Learning<br>🌱 I’m currently learning NLP <br>🤔 I’m looking for FTE role <br>⚡ Fun fact: I love Cycling 🚴‍♀️<br> 💬 Ask me about - Anything 🤫<br>📫 How to reach me mahas.adabala@gmail.com
+<br>🔭 I'm into Machine Learning<br>🌱 I’m currently learning NLP <br>⚡ Fun fact: I love Cycling 🚴‍♀️<br> 💬 Ask me about - Anything 🤫<br>📫 How to reach me mahas.adabala@gmail.com
 
 
 ## 🌐 Socials:
